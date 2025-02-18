@@ -18,7 +18,7 @@
 |显卡|AMD Radeon RX 580(2304SP)|4 GB|
 |网卡|RealTek RTL8125|2.5 Gbps|
 |Wi-Fi|Intel Wi-Fi 6 AX201|m.2|
-|声卡|RealTek ALC897|立体声|
+|声卡|RealTek ALC897|5.1声道|
 |操作系统|macOS Sequoia|15.1|
 |BIOS|AMI UEFI(2023)|2001 x64|
 
