@@ -7,7 +7,7 @@
 - 从macOS Sonoma开始，博通Wi-Fi网卡需要使用[OCLP-Mod](https://github.com/laobamac/OCLP-Mod/releases)打补丁才可使用。
 - 从macOS Sequoia开始，Intel Wi-Fi网卡需要使用[OCLP-Mod](https://github.com/laobamac/OCLP-Mod/releases)打补丁才可使用。
 
-![Sequoia](./Image.png)
+![Sequoia](image.png)
 ### 配置清单
 |类型|型号|规格|
 |---|---|---|
